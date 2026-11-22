@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Debug pdfpipe on mixed.pdf",
+      "cargo": { "args": ["build", "-p", "pdfpipe"], "filter": { "name": "pdfpipe", "kind": "bin" } },
+      "args": ["run", "testdata/mixed.pdf", "--out", "out/debug", "--save-images"],
+      "env": { "PDFIUM_LIB_DIR": "${workspaceFolder}/libs/pdfium/lib" },
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}

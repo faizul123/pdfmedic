@@ -1,0 +1,9 @@
+[package]
+name = "stage-ocr"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+pipeline-core = { path = "../pipeline-core" }
+stage-extract = { path = "../stage-extract" }
+stage-profile = { path = "../stage-profile" }

@@ -1,0 +1,11 @@
+[package]
+name = "ocr-oar"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+pipeline-core = { path = "../pipeline-core" }
+# Default features off: oar-ocr's `download-binaries` pulls native-tls (needs OpenSSL headers).
+# ort is selected here with pure-Rust TLS to fetch the ONNX Runtime binaries at build time.
+oar-ocr = { version = "0.11.0", default-features = false, features = ["simd"] }
+ort = { version = "=2.0.0-rc.15", default-features = false, features = ["download-binaries", "tls-rustls"] }

@@ -1,0 +1,103 @@
+[
+ {
+  "page": 1,
+  "label": "scan + round red seal",
+  "seals": 1,
+  "charts": 0,
+  "tables": 0
+ },
+ {
+  "page": 2,
+  "label": "scan + square red seal",
+  "seals": 1,
+  "charts": 0,
+  "tables": 0
+ },
+ {
+  "page": 3,
+  "label": "scan + blue round seal",
+  "seals": 1,
+  "charts": 0,
+  "tables": 0
+ },
+ {
+  "page": 4,
+  "label": "scan + bar chart",
+  "charts": 1,
+  "seals": 0,
+  "tables": 0
+ },
+ {
+  "page": 5,
+  "label": "scan + pie chart",
+  "charts": 1,
+  "seals": 0,
+  "tables": 0
+ },
+ {
+  "page": 6,
+  "label": "scan + ruled table",
+  "tables": 1,
+  "charts": 0,
+  "seals": 0
+ },
+ {
+  "page": 7,
+  "label": "scan, text only",
+  "tables": 0,
+  "charts": 0,
+  "seals": 0
+ },
+ {
+  "page": 8,
+  "label": "scan + photo (negative)",
+  "charts": 0,
+  "seals": 0,
+  "tables": 0
+ },
+ {
+  "page": 9,
+  "label": "scan + solid logo (negative)",
+  "seals": 0,
+  "charts": 0,
+  "tables": 0
+ },
+ {
+  "page": 10,
+  "label": "scan + signature (negative)",
+  "seals": 0,
+  "charts": 0,
+  "tables": 0
+ },
+ {
+  "page": 11,
+  "label": "scan + skewed table 1.5 deg (hard)",
+  "tables": 1,
+  "charts": 0,
+  "seals": 0,
+  "hard": true
+ },
+ {
+  "page": 12,
+  "label": "scan + seal, noisy, JPEG q30 (hard)",
+  "seals": 1,
+  "charts": 0,
+  "tables": 0,
+  "hard": true
+ },
+ {
+  "page": 13,
+  "label": "scan + table + chart + seal",
+  "tables": 1,
+  "charts": 1,
+  "seals": 1
+ },
+ {
+  "page": 14,
+  "label": "digital page + image chart (region restriction)",
+  "charts": 1,
+  "seals": 0,
+  "tables": 0,
+  "live_text": true
+ }
+]

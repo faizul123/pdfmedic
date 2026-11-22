@@ -1,0 +1,7 @@
+[package]
+name = "stage-orient"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+pipeline-core = { path = "../pipeline-core" }

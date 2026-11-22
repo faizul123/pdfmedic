@@ -1,0 +1,8 @@
+[package]
+name = "stage-pixels"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+pipeline-core = { path = "../pipeline-core" }
+stage-profile = { path = "../stage-profile" }

@@ -1,0 +1,5 @@
+target/
+out/
+libs/
+*.so
+models/

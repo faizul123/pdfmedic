@@ -1,0 +1,22 @@
+[package]
+name = "pdfpipe"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+pipeline-core = { path = "../crates/pipeline-core" }
+backend-pdfium = { path = "../crates/backend-pdfium" }
+stage-metadata = { path = "../crates/stage-metadata" }
+stage-render = { path = "../crates/stage-render" }
+stage-blank = { path = "../crates/stage-blank" }
+export = { path = "../crates/export" }
+clap = { version = "4.6.9", features = ["derive", "env"] }
+anyhow = "1.0.104"
+serde_json = "1.0.154"
+stage-quality = { path = "../crates/stage-quality" }
+stage-orient = { path = "../crates/stage-orient" }
+stage-extract = { path = "../crates/stage-extract" }
+stage-profile = { path = "../crates/stage-profile" }
+stage-pixels = { path = "../crates/stage-pixels" }
+ocr-oar = { path = "../crates/ocr-oar" }
+stage-ocr = { path = "../crates/stage-ocr" }

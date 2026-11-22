@@ -1,0 +1,11 @@
+[package]
+name = "stage-profile"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+pipeline-core = { path = "../pipeline-core" }
+whatlang = "0.18.0"
+
+[dev-dependencies]
+backend-pdfium = { path = "../backend-pdfium" }

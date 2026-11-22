@@ -1,0 +1,248 @@
+[
+ {
+  "page": 1,
+  "source": "en",
+  "variant": "clean",
+  "truth": "Quarterly Report The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year. The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year."
+ },
+ {
+  "page": 2,
+  "source": "en",
+  "variant": "blur1.0",
+  "truth": "Quarterly Report The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year. The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year."
+ },
+ {
+  "page": 3,
+  "source": "en",
+  "variant": "blur1.6",
+  "truth": "Quarterly Report The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year. The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year."
+ },
+ {
+  "page": 4,
+  "source": "en",
+  "variant": "blur2.4",
+  "truth": "Quarterly Report The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year. The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year."
+ },
+ {
+  "page": 5,
+  "source": "en",
+  "variant": "noise_q30",
+  "truth": "Quarterly Report The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year. The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year."
+ },
+ {
+  "page": 6,
+  "source": "en",
+  "variant": "faint",
+  "truth": "Quarterly Report The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year. The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year."
+ },
+ {
+  "page": 7,
+  "source": "en",
+  "variant": "skew1.5",
+  "truth": "Quarterly Report The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year. The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year."
+ },
+ {
+  "page": 8,
+  "source": "en",
+  "variant": "rot90",
+  "truth": "Quarterly Report The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year. The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year."
+ },
+ {
+  "page": 9,
+  "source": "en",
+  "variant": "rot180",
+  "truth": "Quarterly Report The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year. The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year."
+ },
+ {
+  "page": 10,
+  "source": "en",
+  "variant": "rot270",
+  "truth": "Quarterly Report The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year. The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year."
+ },
+ {
+  "page": 11,
+  "source": "en",
+  "variant": "res100dpi",
+  "truth": "Quarterly Report The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year. The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year."
+ },
+ {
+  "page": 12,
+  "source": "en",
+  "variant": "res75dpi",
+  "truth": "Quarterly Report The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year. The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year."
+ },
+ {
+  "page": 13,
+  "source": "fr",
+  "variant": "clean",
+  "truth": "Rapport trimestriel Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra. Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra."
+ },
+ {
+  "page": 14,
+  "source": "fr",
+  "variant": "blur1.0",
+  "truth": "Rapport trimestriel Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra. Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra."
+ },
+ {
+  "page": 15,
+  "source": "fr",
+  "variant": "blur1.6",
+  "truth": "Rapport trimestriel Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra. Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra."
+ },
+ {
+  "page": 16,
+  "source": "fr",
+  "variant": "blur2.4",
+  "truth": "Rapport trimestriel Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra. Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra."
+ },
+ {
+  "page": 17,
+  "source": "fr",
+  "variant": "noise_q30",
+  "truth": "Rapport trimestriel Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra. Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra."
+ },
+ {
+  "page": 18,
+  "source": "fr",
+  "variant": "faint",
+  "truth": "Rapport trimestriel Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra. Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra."
+ },
+ {
+  "page": 19,
+  "source": "fr",
+  "variant": "skew1.5",
+  "truth": "Rapport trimestriel Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra. Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra."
+ },
+ {
+  "page": 20,
+  "source": "fr",
+  "variant": "rot90",
+  "truth": "Rapport trimestriel Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra. Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra."
+ },
+ {
+  "page": 21,
+  "source": "fr",
+  "variant": "rot180",
+  "truth": "Rapport trimestriel Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra. Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra."
+ },
+ {
+  "page": 22,
+  "source": "fr",
+  "variant": "rot270",
+  "truth": "Rapport trimestriel Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra. Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra."
+ },
+ {
+  "page": 23,
+  "source": "fr",
+  "variant": "res100dpi",
+  "truth": "Rapport trimestriel Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra. Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra."
+ },
+ {
+  "page": 24,
+  "source": "fr",
+  "variant": "res75dpi",
+  "truth": "Rapport trimestriel Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra. Le rapport trimestriel montre une croissance régulière dans toutes les régions. Les revenus ont augmenté tandis que les coûts sont restés stables, et le conseil prévoit que cette tendance se poursuivra."
+ },
+ {
+  "page": 25,
+  "source": "ar",
+  "variant": "clean",
+  "truth": "التقرير الفصلي يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة. يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة."
+ },
+ {
+  "page": 26,
+  "source": "ar",
+  "variant": "blur1.0",
+  "truth": "التقرير الفصلي يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة. يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة."
+ },
+ {
+  "page": 27,
+  "source": "ar",
+  "variant": "blur1.6",
+  "truth": "التقرير الفصلي يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة. يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة."
+ },
+ {
+  "page": 28,
+  "source": "ar",
+  "variant": "blur2.4",
+  "truth": "التقرير الفصلي يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة. يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة."
+ },
+ {
+  "page": 29,
+  "source": "ar",
+  "variant": "noise_q30",
+  "truth": "التقرير الفصلي يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة. يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة."
+ },
+ {
+  "page": 30,
+  "source": "ar",
+  "variant": "faint",
+  "truth": "التقرير الفصلي يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة. يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة."
+ },
+ {
+  "page": 31,
+  "source": "ar",
+  "variant": "skew1.5",
+  "truth": "التقرير الفصلي يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة. يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة."
+ },
+ {
+  "page": 32,
+  "source": "ar",
+  "variant": "rot90",
+  "truth": "التقرير الفصلي يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة. يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة."
+ },
+ {
+  "page": 33,
+  "source": "ar",
+  "variant": "rot180",
+  "truth": "التقرير الفصلي يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة. يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة."
+ },
+ {
+  "page": 34,
+  "source": "ar",
+  "variant": "rot270",
+  "truth": "التقرير الفصلي يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة. يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة."
+ },
+ {
+  "page": 35,
+  "source": "ar",
+  "variant": "res100dpi",
+  "truth": "التقرير الفصلي يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة. يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة."
+ },
+ {
+  "page": 36,
+  "source": "ar",
+  "variant": "res75dpi",
+  "truth": "التقرير الفصلي يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة. يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة."
+ },
+ {
+  "page": 37,
+  "source": "en+ar",
+  "variant": "clean",
+  "truth": "The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year. يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة."
+ },
+ {
+  "page": 38,
+  "source": "en+ar",
+  "variant": "res100dpi",
+  "truth": "The quarterly report shows steady growth across all regions. Revenue increased while operating costs remained stable, and the board expects the trend to continue into the next financial year. يظهر التقرير ربع السنوي نموا مستقرا في جميع المناطق. ارتفعت الإيرادات بينما بقيت التكاليف التشغيلية مستقرة ويتوقع المجلس استمرار هذا الاتجاه خلال السنة المالية القادمة."
+ },
+ {
+  "page": 39,
+  "source": "dense",
+  "variant": "clean",
+  "truth": "Scanned page line 0: the quick brown fox jumps over the lazy dog Scanned page line 1: the quick brown fox jumps over the lazy dog Scanned page line 2: the quick brown fox jumps over the lazy dog Scanned page line 3: the quick brown fox jumps over the lazy dog Scanned page line 4: the quick brown fox jumps over the lazy dog Scanned page line 5: the quick brown fox jumps over the lazy dog Scanned page line 6: the quick brown fox jumps over the lazy dog Scanned page line 7: the quick brown fox jumps over the lazy dog Scanned page line 8: the quick brown fox jumps over the lazy dog Scanned page line 9: the quick brown fox jumps over the lazy dog Scanned page line 10: the quick brown fox jumps over the lazy dog Scanned page line 11: the quick brown fox jumps over the lazy dog Scanned page line 12: the quick brown fox jumps over the lazy dog Scanned page line 13: the quick brown fox jumps over the lazy dog Scanned page line 14: the quick brown fox jumps over the lazy dog Scanned page line 15: the quick brown fox jumps over the lazy dog Scanned page line 16: the quick brown fox jumps over the lazy dog Scanned page line 17: the quick brown fox jumps over the lazy dog Scanned page line 18: the quick brown fox jumps over the lazy dog Scanned page line 19: the quick brown fox jumps over the lazy dog Scanned page line 20: the quick brown fox jumps over the lazy dog Scanned page line 21: the quick brown fox jumps over the lazy dog Scanned page line 22: the quick brown fox jumps over the lazy dog Scanned page line 23: the quick brown fox jumps over the lazy dog Scanned page line 24: the quick brown fox jumps over the lazy dog Scanned page line 25: the quick brown fox jumps over the lazy dog Scanned page line 26: the quick brown fox jumps over the lazy dog Scanned page line 27: the quick brown fox jumps over the lazy dog Scanned page line 28: the quick brown fox jumps over the lazy dog Scanned page line 29: the quick brown fox jumps over the lazy dog Scanned page line 30: the quick brown fox jumps over the lazy dog Scanned page line 31: the quick brown fox jumps over the lazy dog Scanned page line 32: the quick brown fox jumps over the lazy dog Scanned page line 33: the quick brown fox jumps over the lazy dog Scanned page line 34: the quick brown fox jumps over the lazy dog Scanned page line 35: the quick brown fox jumps over the lazy dog Scanned page line 36: the quick brown fox jumps over the lazy dog Scanned page line 37: the quick brown fox jumps over the lazy dog Scanned page line 38: the quick brown fox jumps over the lazy dog Scanned page line 39: the quick brown fox jumps over the lazy dog"
+ },
+ {
+  "page": 40,
+  "source": "dense",
+  "variant": "res100dpi",
+  "truth": "Scanned page line 0: the quick brown fox jumps over the lazy dog Scanned page line 1: the quick brown fox jumps over the lazy dog Scanned page line 2: the quick brown fox jumps over the lazy dog Scanned page line 3: the quick brown fox jumps over the lazy dog Scanned page line 4: the quick brown fox jumps over the lazy dog Scanned page line 5: the quick brown fox jumps over the lazy dog Scanned page line 6: the quick brown fox jumps over the lazy dog Scanned page line 7: the quick brown fox jumps over the lazy dog Scanned page line 8: the quick brown fox jumps over the lazy dog Scanned page line 9: the quick brown fox jumps over the lazy dog Scanned page line 10: the quick brown fox jumps over the lazy dog Scanned page line 11: the quick brown fox jumps over the lazy dog Scanned page line 12: the quick brown fox jumps over the lazy dog Scanned page line 13: the quick brown fox jumps over the lazy dog Scanned page line 14: the quick brown fox jumps over the lazy dog Scanned page line 15: the quick brown fox jumps over the lazy dog Scanned page line 16: the quick brown fox jumps over the lazy dog Scanned page line 17: the quick brown fox jumps over the lazy dog Scanned page line 18: the quick brown fox jumps over the lazy dog Scanned page line 19: the quick brown fox jumps over the lazy dog Scanned page line 20: the quick brown fox jumps over the lazy dog Scanned page line 21: the quick brown fox jumps over the lazy dog Scanned page line 22: the quick brown fox jumps over the lazy dog Scanned page line 23: the quick brown fox jumps over the lazy dog Scanned page line 24: the quick brown fox jumps over the lazy dog Scanned page line 25: the quick brown fox jumps over the lazy dog Scanned page line 26: the quick brown fox jumps over the lazy dog Scanned page line 27: the quick brown fox jumps over the lazy dog Scanned page line 28: the quick brown fox jumps over the lazy dog Scanned page line 29: the quick brown fox jumps over the lazy dog Scanned page line 30: the quick brown fox jumps over the lazy dog Scanned page line 31: the quick brown fox jumps over the lazy dog Scanned page line 32: the quick brown fox jumps over the lazy dog Scanned page line 33: the quick brown fox jumps over the lazy dog Scanned page line 34: the quick brown fox jumps over the lazy dog Scanned page line 35: the quick brown fox jumps over the lazy dog Scanned page line 36: the quick brown fox jumps over the lazy dog Scanned page line 37: the quick brown fox jumps over the lazy dog Scanned page line 38: the quick brown fox jumps over the lazy dog Scanned page line 39: the quick brown fox jumps over the lazy dog"
+ },
+ {
+  "page": 41,
+  "source": "dense",
+  "variant": "res75dpi",
+  "truth": "Scanned page line 0: the quick brown fox jumps over the lazy dog Scanned page line 1: the quick brown fox jumps over the lazy dog Scanned page line 2: the quick brown fox jumps over the lazy dog Scanned page line 3: the quick brown fox jumps over the lazy dog Scanned page line 4: the quick brown fox jumps over the lazy dog Scanned page line 5: the quick brown fox jumps over the lazy dog Scanned page line 6: the quick brown fox jumps over the lazy dog Scanned page line 7: the quick brown fox jumps over the lazy dog Scanned page line 8: the quick brown fox jumps over the lazy dog Scanned page line 9: the quick brown fox jumps over the lazy dog Scanned page line 10: the quick brown fox jumps over the lazy dog Scanned page line 11: the quick brown fox jumps over the lazy dog Scanned page line 12: the quick brown fox jumps over the lazy dog Scanned page line 13: the quick brown fox jumps over the lazy dog Scanned page line 14: the quick brown fox jumps over the lazy dog Scanned page line 15: the quick brown fox jumps over the lazy dog Scanned page line 16: the quick brown fox jumps over the lazy dog Scanned page line 17: the quick brown fox jumps over the lazy dog Scanned page line 18: the quick brown fox jumps over the lazy dog Scanned page line 19: the quick brown fox jumps over the lazy dog Scanned page line 20: the quick brown fox jumps over the lazy dog Scanned page line 21: the quick brown fox jumps over the lazy dog Scanned page line 22: the quick brown fox jumps over the lazy dog Scanned page line 23: the quick brown fox jumps over the lazy dog Scanned page line 24: the quick brown fox jumps over the lazy dog Scanned page line 25: the quick brown fox jumps over the lazy dog Scanned page line 26: the quick brown fox jumps over the lazy dog Scanned page line 27: the quick brown fox jumps over the lazy dog Scanned page line 28: the quick brown fox jumps over the lazy dog Scanned page line 29: the quick brown fox jumps over the lazy dog Scanned page line 30: the quick brown fox jumps over the lazy dog Scanned page line 31: the quick brown fox jumps over the lazy dog Scanned page line 32: the quick brown fox jumps over the lazy dog Scanned page line 33: the quick brown fox jumps over the lazy dog Scanned page line 34: the quick brown fox jumps over the lazy dog Scanned page line 35: the quick brown fox jumps over the lazy dog Scanned page line 36: the quick brown fox jumps over the lazy dog Scanned page line 37: the quick brown fox jumps over the lazy dog Scanned page line 38: the quick brown fox jumps over the lazy dog Scanned page line 39: the quick brown fox jumps over the lazy dog"
+ }
+]

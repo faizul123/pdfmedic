@@ -1,0 +1,16 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    { "label": "build (release)", "type": "cargo", "command": "build", "args": ["--release"],
+      "group": { "kind": "build", "isDefault": true }, "problemMatcher": ["$rustc"] },
+    { "label": "test", "type": "cargo", "command": "test", "args": ["--workspace"],
+      "group": "test", "problemMatcher": ["$rustc"] },
+    { "label": "clippy", "type": "cargo", "command": "clippy",
+      "args": ["--workspace", "--all-targets", "--", "-D", "warnings"], "problemMatcher": ["$rustc"] },
+    { "label": "fmt check", "type": "cargo", "command": "fmt", "args": ["--all", "--", "--check"] },
+    { "label": "generate test PDFs", "type": "shell", "command": "python3 testdata/gen_pdfs.py testdata 500" },
+    { "label": "run mixed.pdf", "type": "shell",
+      "command": "./target/release/pdfpipe run testdata/mixed.pdf --out out/mixed --save-images --with-provenance",
+      "dependsOn": ["build (release)"] }
+  ]
+}

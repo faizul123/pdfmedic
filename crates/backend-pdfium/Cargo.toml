@@ -1,0 +1,8 @@
+[package]
+name = "backend-pdfium"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+pdfium-render = "0.9.6"
+pipeline-core = { path = "../pipeline-core" }

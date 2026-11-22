@@ -1,0 +1,10 @@
+[workspace]
+resolver = "2"
+members = ["crates/pipeline-core", "crates/backend-pdfium", "crates/stage-metadata", "crates/stage-render", "crates/stage-blank", "crates/stage-quality", "crates/stage-orient", "crates/stage-extract", "crates/stage-profile", "crates/stage-pixels", "crates/ocr-oar", "crates/stage-ocr", "crates/export", "cli", "crates/backend-pdfium", "crates/stage-quality", "crates/stage-orient", "crates/stage-extract", "crates/stage-profile", "crates/stage-pixels", "crates/ocr-oar", "crates/stage-ocr"]
+
+[workspace.package]
+edition = "2021"
+version = "0.1.0"
+
+[profile.release]
+debug = 1

@@ -1,0 +1,162 @@
+[
+ {
+  "page": 1,
+  "label": "en text",
+  "language": "en",
+  "scan": "no",
+  "route": "RustOnly",
+  "tables": 0,
+  "charts": 0,
+  "seals": 0
+ },
+ {
+  "page": 2,
+  "label": "fr text",
+  "language": "fr",
+  "scan": "no",
+  "route": "RustOnly",
+  "tables": 0,
+  "charts": 0,
+  "seals": 0
+ },
+ {
+  "page": 3,
+  "label": "ar text",
+  "language": "ar",
+  "scan": "no",
+  "route": "RustOnly",
+  "tables": 0,
+  "charts": 0,
+  "seals": 0
+ },
+ {
+  "page": 4,
+  "label": "bilingual en+ar",
+  "scripts": [
+   "latin",
+   "arabic"
+  ],
+  "scan": "no",
+  "route": "RustOnly",
+  "tables": 0,
+  "charts": 0,
+  "seals": 0
+ },
+ {
+  "page": 5,
+  "label": "ruled table",
+  "scan": "no",
+  "route": "RustOnly",
+  "tables": 1,
+  "charts": 0,
+  "seals": 0
+ },
+ {
+  "page": 6,
+  "label": "borderless table",
+  "scan": "no",
+  "route": "RustOnly",
+  "tables": 1,
+  "charts": 0,
+  "seals": 0
+ },
+ {
+  "page": 7,
+  "label": "vector bar chart",
+  "scan": "no",
+  "route": "RustOnly",
+  "tables": 0,
+  "charts": 1,
+  "seals": 0
+ },
+ {
+  "page": 8,
+  "label": "vector pie chart",
+  "scan": "no",
+  "route": "RustOnly",
+  "tables": 0,
+  "charts": 1,
+  "seals": 0
+ },
+ {
+  "page": 9,
+  "label": "raster chart",
+  "scan": "no",
+  "route": "RustOnly",
+  "tables": 0,
+  "charts": 0,
+  "seals": 0,
+  "pixel_pass": true,
+  "known_miss": "raster chart (triage only; found by the pixel pass)",
+  "charts_with_pixels": 1
+ },
+ {
+  "page": 10,
+  "label": "vector seal",
+  "scan": "no",
+  "route": "RustOnly",
+  "tables": 0,
+  "charts": 0,
+  "seals": 1
+ },
+ {
+  "page": 11,
+  "label": "raster seal",
+  "scan": "no",
+  "route": "RustOnly",
+  "tables": 0,
+  "charts": 0,
+  "seals": 1
+ },
+ {
+  "page": 12,
+  "label": "scan (image only)",
+  "scan": "scanned",
+  "route": "Ocr",
+  "tables": 0,
+  "charts": 0,
+  "seals": 0,
+  "pixel_pass": true
+ },
+ {
+  "page": 13,
+  "label": "scan + hidden text layer",
+  "scan": "scanned_with_text_layer",
+  "route": "VerifyTextLayer",
+  "language": "en",
+  "tables": 0,
+  "charts": 0,
+  "seals": 0,
+  "pixel_pass": true
+ },
+ {
+  "page": 14,
+  "label": "stamp annotation only",
+  "scan": "no",
+  "route": "RustOnly",
+  "tables": 0,
+  "charts": 0,
+  "seals": 1,
+  "blank": false
+ },
+ {
+  "page": 15,
+  "label": "blank",
+  "scan": "no",
+  "route": "Skip",
+  "tables": 0,
+  "charts": 0,
+  "seals": 0,
+  "blank": true
+ },
+ {
+  "page": 16,
+  "label": "outlined text",
+  "scan": "no",
+  "route": "Ocr",
+  "tables": 0,
+  "charts": 0,
+  "seals": 0,
+  "pixel_pass": true
+ }
+]
